@@ -25,7 +25,7 @@ This project implements a Wasserstein Generative Adversarial Network with Gradie
 
 1. Prepare your dataset of Star Trek TNG faces in a folder.
 2. Set the `dataDirectory` variable to point to your dataset folder.
-3. Run the script to start training: `python wGanGpStarTrek.py`.
+3. Run the script to start training: `python3 wGanGpStarTrek.py`.
 
 ## Code Structure
 
@@ -53,7 +53,8 @@ This project implements a Wasserstein Generative Adversarial Network with Gradie
 
 - The model generates synthetic faces of Star Trek TNG characters.
 - Generated images can be viewed in TensorBoard or saved to a directory.
-
+## GUI-APP 
+- python3 src/gansApp.py to run GUI app for Z-space interpolation.
 ## Conclusion
 
 This project provides a fascinating application of wGAN-GP to generate synthetic faces of popular TV show characters. It showcases the potential of GANs in creative content generation and offers a starting point for those interested in exploring advanced GAN architectures.
