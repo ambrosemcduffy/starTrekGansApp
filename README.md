@@ -57,5 +57,6 @@ This project implements a Wasserstein Generative Adversarial Network with Gradie
 ## Conclusion
 
 This project provides a fascinating application of wGAN-GP to generate synthetic faces of popular TV show characters. It showcases the potential of GANs in creative content generation and offers a starting point for those interested in exploring advanced GAN architectures.
+![Star Trek TNG Faces GAN Demo](https://github.com/ambrosemcduffy/starTrekGansApp/blob/main/gansApp.gif?raw=true)
 
 ---
